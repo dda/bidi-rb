@@ -1,0 +1,290 @@
+0020    SPACE
+* sometimes considered a control code
+* other space characters: 2000-200A
+x (no-break space - 00A0)
+x (zero width space - 200B)
+x (word joiner - 2060)
+x (ideographic space - 3000)
+x (zero width no-break space - FEFF)
+0021    EXCLAMATION MARK
+= factorial
+= bang
+x (inverted exclamation mark - 00A1)
+x (latin letter retroflex click - 01C3)
+x (double exclamation mark - 203C)
+x (interrobang - 203D)
+x (heavy exclamation mark ornament - 2762)
+0022    QUOTATION MARK
+* neutral (vertical), used as opening or closing quotation mark
+* preferred characters in English for paired quotation marks are 201C & 201D
+x (modifier letter double prime - 02BA)
+x (combining double acute accent - 030B)
+x (combining double vertical line above - 030E)
+x (double prime - 2033)
+x (ditto mark - 3003)
+0023    NUMBER SIGN
+= pound sign, hash, crosshatch, octothorpe
+x (l b bar symbol - 2114)
+x (music sharp sign - 266F)
+0024    DOLLAR SIGN
+= milreis, escudo
+* glyph may have one or two vertical bars
+* other currency symbol characters: 20A0-20B5
+x (currency sign - 00A4)
+0025    PERCENT SIGN
+x (arabic percent sign - 066A)
+x (per mille sign - 2030)
+x (per ten thousand sign - 2031)
+x (commercial minus sign - 2052)
+0026    AMPERSAND
+x (tironian sign et - 204A)
+x (turned ampersand - 214B)
+0027    APOSTROPHE
+= apostrophe-quote (1.0)
+= APL quote
+* neutral (vertical) glyph with mixed usage
+* 2019 is preferred for apostrophe
+* preferred characters in English for paired quotation marks are 2018 & 2019
+x (modifier letter prime - 02B9)
+x (modifier letter apostrophe - 02BC)
+x (modifier letter vertical line - 02C8)
+x (combining acute accent - 0301)
+x (prime - 2032)
+x (latin small letter saltillo - A78C)
+0028    LEFT PARENTHESIS
+= opening parenthesis (1.0)
+0029    RIGHT PARENTHESIS
+= closing parenthesis (1.0)
+* see discussion on semantics of paired bracketing characters
+002A    ASTERISK
+= star (on phone keypads)
+x (arabic five pointed star - 066D)
+x (low asterisk - 204E)
+x (asterisk operator - 2217)
+x (sextile - 26B9)
+x (heavy asterisk - 2731)
+002B    PLUS SIGN
+002C    COMMA
+= decimal separator
+x (arabic comma - 060C)
+x (single low-9 quotation mark - 201A)
+x (ideographic comma - 3001)
+002D    HYPHEN-MINUS
+= hyphen or minus sign
+* used for either hyphen or minus sign
+x (hyphen - 2010)
+x (non-breaking hyphen - 2011)
+x (figure dash - 2012)
+x (en dash - 2013)
+x (minus sign - 2212)
+x (roman uncia sign - 10191)
+002E    FULL STOP
+= period, dot, decimal point
+* may be rendered as a raised decimal point in old style numbers
+x (arabic full stop - 06D4)
+x (ideographic full stop - 3002)
+002F    SOLIDUS
+= slash, virgule
+x (latin letter dental click - 01C0)
+x (combining long solidus overlay - 0338)
+x (fraction slash - 2044)
+x (division slash - 2215)
+@        ASCII digits
+0030    DIGIT ZERO
+0031    DIGIT ONE
+0032    DIGIT TWO
+0033    DIGIT THREE
+0034    DIGIT FOUR
+0035    DIGIT FIVE
+0036    DIGIT SIX
+0037    DIGIT SEVEN
+0038    DIGIT EIGHT
+0039    DIGIT NINE
+@        ASCII punctuation and symbols
+003A    COLON
+x (armenian full stop - 0589)
+x (hebrew punctuation sof pasuq - 05C3)
+x (ratio - 2236)
+x (modifier letter colon - A789)
+003B    SEMICOLON
+* this, and not 037E, is the preferred character for 'Greek question mark'
+x (greek question mark - 037E)
+x (arabic semicolon - 061B)
+x (reversed semicolon - 204F)
+003C    LESS-THAN SIGN
+x (single left-pointing angle quotation mark - 2039)
+x (left-pointing angle bracket - 2329)
+x (mathematical left angle bracket - 27E8)
+x (left angle bracket - 3008)
+003D    EQUALS SIGN
+* other related characters: 2241-2263
+x (not equal to - 2260)
+x (identical to - 2261)
+x (modifier letter short equals sign - A78A)
+x (roman sextans sign - 10190)
+003E    GREATER-THAN SIGN
+x (single right-pointing angle quotation mark - 203A)
+x (right-pointing angle bracket - 232A)
+x (mathematical right angle bracket - 27E9)
+x (right angle bracket - 3009)
+003F    QUESTION MARK
+x (inverted question mark - 00BF)
+x (greek question mark - 037E)
+x (arabic question mark - 061F)
+x (interrobang - 203D)
+x (question exclamation mark - 2048)
+x (exclamation question mark - 2049)
+0040    COMMERCIAL AT
+= at sign
+@        Uppercase Latin alphabet
+0041    LATIN CAPITAL LETTER A
+0042    LATIN CAPITAL LETTER B
+x (script capital b - 212C)
+0043    LATIN CAPITAL LETTER C
+x (double-struck capital c - 2102)
+x (black-letter capital c - 212D)
+0044    LATIN CAPITAL LETTER D
+0045    LATIN CAPITAL LETTER E
+x (euler constant - 2107)
+x (script capital e - 2130)
+0046    LATIN CAPITAL LETTER F
+x (script capital f - 2131)
+x (turned capital f - 2132)
+0047    LATIN CAPITAL LETTER G
+0048    LATIN CAPITAL LETTER H
+x (script capital h - 210B)
+x (black-letter capital h - 210C)
+x (double-struck capital h - 210D)
+0049    LATIN CAPITAL LETTER I
+* Turkish and Azerbaijani use 0131 for lowercase
+x (latin capital letter i with dot above - 0130)
+x (cyrillic capital letter byelorussian-ukrainian i - 0406)
+x (cyrillic letter palochka - 04C0)
+x (script capital i - 2110)
+x (black-letter capital i - 2111)
+x (roman numeral one - 2160)
+004A    LATIN CAPITAL LETTER J
+004B    LATIN CAPITAL LETTER K
+x (kelvin sign - 212A)
+004C    LATIN CAPITAL LETTER L
+x (script capital l - 2112)
+004D    LATIN CAPITAL LETTER M
+x (script capital m - 2133)
+004E    LATIN CAPITAL LETTER N
+x (double-struck capital n - 2115)
+004F    LATIN CAPITAL LETTER O
+0050    LATIN CAPITAL LETTER P
+x (double-struck capital p - 2119)
+0051    LATIN CAPITAL LETTER Q
+x (double-struck capital q - 211A)
+0052    LATIN CAPITAL LETTER R
+x (script capital r - 211B)
+x (black-letter capital r - 211C)
+x (double-struck capital r - 211D)
+0053    LATIN CAPITAL LETTER S
+0054    LATIN CAPITAL LETTER T
+0055    LATIN CAPITAL LETTER U
+0056    LATIN CAPITAL LETTER V
+x (roman numeral five - 2164)
+0057    LATIN CAPITAL LETTER W
+0058    LATIN CAPITAL LETTER X
+0059    LATIN CAPITAL LETTER Y
+005A    LATIN CAPITAL LETTER Z
+x (double-struck capital z - 2124)
+x (black-letter capital z - 2128)
+@        ASCII punctuation and symbols
+005B    LEFT SQUARE BRACKET
+= opening square bracket (1.0)
+* other bracket characters: 27E6-27EB, 2983-2998, 3008-301B
+005C    REVERSE SOLIDUS
+= backslash
+x (combining reverse solidus overlay - 20E5)
+x (set minus - 2216)
+005D    RIGHT SQUARE BRACKET
+= closing square bracket (1.0)
+005E    CIRCUMFLEX ACCENT
+* this is a spacing character
+x (modifier letter up arrowhead - 02C4)
+x (modifier letter circumflex accent - 02C6)
+x (combining circumflex accent - 0302)
+x (caret - 2038)
+x (up arrowhead - 2303)
+005F    LOW LINE
+= spacing underscore (1.0)
+* this is a spacing character
+x (modifier letter low macron - 02CD)
+x (combining macron below - 0331)
+x (combining low line - 0332)
+x (double low line - 2017)
+0060    GRAVE ACCENT
+* this is a spacing character
+x (modifier letter grave accent - 02CB)
+x (combining grave accent - 0300)
+x (reversed prime - 2035)
+@        Lowercase Latin alphabet
+0061    LATIN SMALL LETTER A
+0062    LATIN SMALL LETTER B
+0063    LATIN SMALL LETTER C
+0064    LATIN SMALL LETTER D
+0065    LATIN SMALL LETTER E
+x (estimated symbol - 212E)
+x (script small e - 212F)
+0066    LATIN SMALL LETTER F
+0067    LATIN SMALL LETTER G
+x (latin small letter script g - 0261)
+x (script small g - 210A)
+0068    LATIN SMALL LETTER H
+x (cyrillic small letter shha - 04BB)
+x (planck constant - 210E)
+0069    LATIN SMALL LETTER I
+* Turkish and Azerbaijani use 0130 for uppercase
+x (latin small letter dotless i - 0131)
+x (mathematical italic small dotless i - 1D6A4)
+006A    LATIN SMALL LETTER J
+x (latin small letter dotless j - 0237)
+x (mathematical italic small dotless j - 1D6A5)
+006B    LATIN SMALL LETTER K
+006C    LATIN SMALL LETTER L
+x (script small l - 2113)
+x (mathematical script small l - 1D4C1)
+006D    LATIN SMALL LETTER M
+006E    LATIN SMALL LETTER N
+x (superscript latin small letter n - 207F)
+006F    LATIN SMALL LETTER O
+x (script small o - 2134)
+0070    LATIN SMALL LETTER P
+0071    LATIN SMALL LETTER Q
+0072    LATIN SMALL LETTER R
+0073    LATIN SMALL LETTER S
+0074    LATIN SMALL LETTER T
+0075    LATIN SMALL LETTER U
+0076    LATIN SMALL LETTER V
+0077    LATIN SMALL LETTER W
+0078    LATIN SMALL LETTER X
+0079    LATIN SMALL LETTER Y
+007A    LATIN SMALL LETTER Z
+x (latin small letter z with stroke - 01B6)
+@        ASCII punctuation and symbols
+007B    LEFT CURLY BRACKET
+= opening curly bracket (1.0)
+= left brace
+007C    VERTICAL LINE
+= vertical bar
+* used in pairs to indicate absolute value
+x (latin letter dental click - 01C0)
+x (hebrew punctuation paseq - 05C0)
+x (divides - 2223)
+x (light vertical bar - 2758)
+007D    RIGHT CURLY BRACKET
+= closing curly bracket (1.0)
+= right brace
+007E    TILDE
+* this is a spacing character
+x (small tilde - 02DC)
+x (combining tilde - 0303)
+x (swung dash - 2053)
+x (tilde operator - 223C)
+x (fullwidth tilde - FF5E)
+@        Control character
+007F    <control>
+= DELETE
