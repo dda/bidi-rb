@@ -1,0 +1,1 @@
+This example project – once written for a prospective client; project apparently fell through – shows how to identify stretches of RTL or LTR texts and how to draw them properly in a mixed-script environment. Project comes with code to identify scripts, direction, and diacritics.
